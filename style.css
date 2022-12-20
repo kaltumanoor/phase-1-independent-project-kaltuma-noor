@@ -1,0 +1,27 @@
+
+.body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.front{
+    background-size: cover;
+    background-image: url(photo6.jpg);
+    background-repeat:repeat-y;
+    width:600px;
+    height: 600px;
+    align-content: center;
+}
+.head{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(10, 13, 12);
+    padding-top: 90px;
+}
+.dates{
+    text-align: center;
+    color: white;
+}
+p {
+    color: black;
+}
