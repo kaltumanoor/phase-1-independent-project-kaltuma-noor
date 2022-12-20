@@ -11,6 +11,7 @@
     width:600px;
     height: 600px;
     align-content: center;
+    border-radius: 10px;
 }
 .head{
     text-align: center;
@@ -30,4 +31,5 @@ form {
     justify-content: center;
     align-items: center;
     background-color: rgb(226, 223, 219);
+    border-radius: 20px;
 }
