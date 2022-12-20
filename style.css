@@ -25,3 +25,9 @@
 p {
     color: black;
 }
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 223, 219);
+}
